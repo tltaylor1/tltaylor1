@@ -1,14 +1,10 @@
 ## Terry Taylor
 
-Terry Taylor is a security engineer and architect in Seattle, with thirteen
-years across enterprise and federal environments. Terry currently owns the
-platform and application security program for a public sector practice.
-
-Terry holds the CISSP and has deep experience with the Azure and Microsoft
-security stack, across identity, Zero Trust, networking, monitoring and
-detection, infrastructure as code, and compliance. Two organizations have gone
-from gap assessment through Cybersecurity Maturity Model Certification under
-Terry's lead, and AWS depth is in progress now.
+I am a security engineer and architect in Seattle, working in cloud and identity
+security for regulated and federal environments. I have taken two organizations
+from gap assessment through Cybersecurity Maturity Model Certification. The
+repositories below show how I build secure software with AI assistance, reviewed
+and documented.
 
 ### Repositories
 
