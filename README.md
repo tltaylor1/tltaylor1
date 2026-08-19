@@ -1,7 +1,8 @@
 ## Terry Taylor
 
 I am a security engineer and architect in Seattle, working in cloud and identity
-security for regulated and federal environments. I have taken two organizations
+security for regulated and federal environments. 
+I have taken two organizations
 from gap assessment through Cybersecurity Maturity Model Certification. The
 repositories below show how I build secure software with AI assistance, reviewed
 and documented.
