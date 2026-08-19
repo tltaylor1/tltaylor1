@@ -3,11 +3,12 @@
 I am a security engineer and architect in Seattle, working in cloud and identity
 security for regulated and federal environments. 
 I have taken two organizations
-from gap assessment through Cybersecurity Maturity Model Certification. The
-repositories below form [control-plane](https://tltaylor1.github.io),
+from gap assessment through Cybersecurity Maturity Model Certification. Most of
+the repositories below form [control-plane](https://tltaylor1.github.io),
 a security engineering program built in public with a governed coding
 agent: every change agent-proposed, human-reviewed, signed, and
 gated, with the decisions and the failure record kept on purpose.
+The diagrams repository stands on its own.
 
 ### Repositories
 
