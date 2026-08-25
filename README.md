@@ -36,7 +36,7 @@ If you like the project (control-plane) or the main app (role-call), please give
 | Repository | Details |
 |---|---|
 | [aws-azure-security-mapping](https://github.com/tltaylor1/aws-azure-security-mapping) | Ninety-nine AWS security concepts mapped to the closest Azure comparable, including the seven with no clean equivalent. A study aid from certification work, open to corrections. |
-| [anki-decks](https://github.com/tltaylor1/anki-decks) | Anki flashcard decks, one folder per deck with an apkg and a CSV twin so card changes diff line by line. PowerShell first, more subjects landing one at a time. |
+| [anki-decks](https://github.com/tltaylor1/anki-decks) | Seven Anki decks, 1,262 cards across PowerShell, Python, KQL, Bicep, cybersecurity, the AWS Security Specialty, and compliance frameworks. Each folder ships an apkg and a CSV twin so card changes diff line by line. |
 
 CISSP · Terraform Associate · CCNA · Microsoft Expert x3
 
