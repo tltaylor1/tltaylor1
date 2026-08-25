@@ -8,7 +8,7 @@ Most of the repositories below form [control-plane](https://tltaylor1.github.io)
 a security engineering program built in public with a governed coding
 agent: every change agent-proposed, human-reviewed, signed, and
 gated, with the decisions and the failure record kept on purpose.
-The diagrams repository stands on its own. 
+The diagrams and study repositories stand on their own. 
 
 If you like the project (control-plane) or the main app (role-call), please give them a ⭐ and let me know!
 
@@ -27,6 +27,7 @@ If you like the project (control-plane) or the main app (role-call), please give
 |---|---|
 | [secure-expense-mvp](https://github.com/tltaylor1/secure-expense-mvp) | A small demo expense application, finished and hardened: object-level authorization, tokenized values, audit logging, a security-gated pipeline. Complete on purpose. |
 | [sample-diagrams](https://github.com/tltaylor1/sample-diagrams) | Hand-drawn architecture and process diagrams, drawn in Visio, kept as illustration-only examples of design work |
+| [aws-azure-security-mapping](https://github.com/tltaylor1/aws-azure-security-mapping) | Ninety-nine AWS security concepts mapped to the closest Azure comparable, including the seven with no clean equivalent. A study aid from certification work, open to corrections. |
 
 CISSP · Terraform Associate · CCNA · Microsoft Expert x3
 
