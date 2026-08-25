@@ -25,7 +25,7 @@ If you like the project (control-plane) or the main app (role-call), please give
 
 | Repository | Details |
 |---|---|
-| [secure-expense-mvp](https://github.com/tltaylor1/secure-expense-mvp) | A small expense application, finished and hardened: object-level authorization, tokenized values, audit logging, a security-gated pipeline. Complete on purpose. |
+| [secure-expense-mvp](https://github.com/tltaylor1/secure-expense-mvp) | A small demo expense application, finished and hardened: object-level authorization, tokenized values, audit logging, a security-gated pipeline. Complete on purpose. |
 | [sample-diagrams](https://github.com/tltaylor1/sample-diagrams) | Hand-drawn architecture and process diagrams, drawn in Visio, kept as illustration-only examples of design work |
 
 CISSP · Terraform Associate · CCNA · Microsoft Expert x3
