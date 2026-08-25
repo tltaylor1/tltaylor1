@@ -10,7 +10,7 @@ agent: every change agent-proposed, human-reviewed, signed, and
 gated, with the decisions and the failure record kept on purpose.
 The diagrams repository stands on its own. 
 
-If you like the project (control-plane) or role-call, please give them a star and let me know!
+If you like the project (control-plane) or the main app (role-call), please give them a star and let me know!
 
 
 ### Featured program
