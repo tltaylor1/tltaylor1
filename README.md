@@ -21,13 +21,19 @@ If you like the project (control-plane) or the main app (role-call), please give
 | [role-call](https://github.com/tltaylor1/role-call) | Inventory and governance for non-human identities, the roles, service accounts, and access keys nobody offboards. State derives from observed history rather than being stored, and the tool amplifies a human decision rather than acting on its own. Complete through its version one scope. |
 | [build-guidelines](https://github.com/tltaylor1/build-guidelines) | The standards every project here starts from, organized by layer. Each rule names what enforces it and the incident that produced it; what no tool can check is named as a human attestation with an expiry. |
 
-### Other repositories
+### Demo repositories
 
 | Repository | Details |
 |---|---|
 | [secure-expense-mvp](https://github.com/tltaylor1/secure-expense-mvp) | A small demo expense application, finished and hardened: object-level authorization, tokenized values, audit logging, a security-gated pipeline. Complete on purpose. |
 | [sample-diagrams](https://github.com/tltaylor1/sample-diagrams) | Hand-drawn architecture and process diagrams, drawn in Visio, kept as illustration-only examples of design work |
+
+### Study repositories
+
+| Repository | Details |
+|---|---|
 | [aws-azure-security-mapping](https://github.com/tltaylor1/aws-azure-security-mapping) | Ninety-nine AWS security concepts mapped to the closest Azure comparable, including the seven with no clean equivalent. A study aid from certification work, open to corrections. |
+| [anki-decks](https://github.com/tltaylor1/anki-decks) | Anki flashcard decks, one folder per deck with an apkg and a CSV twin so card changes diff line by line. PowerShell first, more subjects landing one at a time. |
 
 CISSP · Terraform Associate · CCNA · Microsoft Expert x3
 
