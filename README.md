@@ -1,5 +1,7 @@
 ## Terry Taylor
 
+<img src="assets/portrait.png" align="right" width="170" alt="Stylized portrait of Terry">
+
 I am a security engineer and architect in Seattle, working in cloud and identity
 security for regulated and federal environments. I have taken two organizations
 from gap assessment through Cybersecurity Maturity Model Certification. 
