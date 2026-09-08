@@ -24,7 +24,7 @@ If you like the project (control-plane) or the main app (role-call), please give
 |---|---|
 | [control-plane](https://tltaylor1.github.io) | The program the repositories form: phases fixed before building, monitoring and recovery documented with drills that expire, and the agent governed by gates it cannot route around. |
 | [role-call](https://github.com/tltaylor1/role-call) | Inventory and governance for non-human identities, the roles, service accounts, and access keys nobody offboards. State derives from observed history rather than being stored, and the tool amplifies a human decision rather than acting on its own. Complete through its version one scope. |
-| [build-guidelines](https://github.com/tltaylor1/build-guidelines) | The standards every project here starts from, organized by layer. Each rule names what enforces it and the incident that produced it; what no tool can check is named as a human attestation with an expiry. |
+| [build-doctrine](https://github.com/tltaylor1/build-doctrine) | The standards every project here starts from, organized by layer. Each rule names what enforces it and the incident that produced it; what no tool can check is named as a human attestation with an expiry. |
 
 ### Demo repositories
 
