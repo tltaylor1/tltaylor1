@@ -39,4 +39,17 @@ If you like the project (control-plane) or the main app (role-call), please give
 
 CISSP · Terraform Associate · CCNA · Microsoft Expert x3
 
-[![Toolset](https://skillicons.dev/icons?i=azure,aws,terraform,kubernetes,docker,py,fastapi,postgres,linux,bash,powershell,githubactions&perline=12)](https://tltaylor1.github.io)
+<p>
+  <a href="https://tltaylor1.github.io" title="Azure"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure"></a>
+  <a href="https://tltaylor1.github.io" title="AWS"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"></a>
+  <a href="https://tltaylor1.github.io" title="Terraform"><img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform"></a>
+  <a href="https://tltaylor1.github.io" title="Kubernetes"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes"></a>
+  <a href="https://tltaylor1.github.io" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"></a>
+  <a href="https://tltaylor1.github.io" title="Python"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"></a>
+  <a href="https://tltaylor1.github.io" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"></a>
+  <a href="https://tltaylor1.github.io" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"></a>
+  <a href="https://tltaylor1.github.io" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"></a>
+  <a href="https://tltaylor1.github.io" title="Bash"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"></a>
+  <a href="https://tltaylor1.github.io" title="PowerShell"><img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell"></a>
+  <a href="https://tltaylor1.github.io" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"></a>
+</p>
