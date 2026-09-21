@@ -37,8 +37,15 @@ If you like the project (control-plane) or the main app (role-call), please give
 | [aws-azure-security-mapping](https://github.com/tltaylor1/aws-azure-security-mapping) | Ninety-nine AWS security concepts mapped to the closest Azure comparable, including the seven with no clean equivalent. A study aid from certification work, open to corrections. |
 | [anki-decks](https://github.com/tltaylor1/anki-decks) | Seven Anki decks, 1,262 cards across PowerShell, Python, KQL, Bicep, cybersecurity, the AWS Security Specialty, and compliance frameworks. Each folder ships an apkg and a CSV twin so card changes diff line by line. |
 
-CISSP · Terraform Associate · CCNA · Microsoft Expert x3
+<p align="center"><b>Certifications</b></p>
+<p align="center">
+  <a href="https://www.isc2.org/certifications/cissp" title="CISSP"><img src="https://img.shields.io/badge/CISSP-1E8449?style=for-the-badge" alt="CISSP"></a>
+  <a href="https://developer.hashicorp.com/certifications/infrastructure-automation" title="HashiCorp Terraform Associate"><img src="https://img.shields.io/badge/Terraform%20Associate-7B42BC?style=for-the-badge" alt="Terraform Associate"></a>
+  <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html" title="Cisco CCNA"><img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge" alt="CCNA"></a>
+  <a href="https://learn.microsoft.com/en-us/credentials/" title="Microsoft Certified Expert, three credentials"><img src="https://img.shields.io/badge/Microsoft%20Expert%20x3-0078D4?style=for-the-badge" alt="Microsoft Expert x3"></a>
+</p>
 
+<p align="center"><b>Skills and tools</b></p>
 <p align="center">
   <a href="https://tltaylor1.github.io" title="Azure"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure"></a>
   <a href="https://tltaylor1.github.io" title="Microsoft Entra ID"><img src="assets/icons/entra-id.svg" width="48" height="48" alt="Microsoft Entra ID"></a>
