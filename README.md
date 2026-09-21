@@ -42,8 +42,6 @@ CISSP · Terraform Associate · CCNA · Microsoft Expert x3
 <p align="center">
   <a href="https://tltaylor1.github.io" title="Azure"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure"></a>
   <a href="https://tltaylor1.github.io" title="Microsoft Entra ID"><img src="assets/icons/entra-id.svg" width="48" height="48" alt="Microsoft Entra ID"></a>
-  <a href="https://tltaylor1.github.io" title="Microsoft Sentinel"><img src="assets/icons/sentinel.svg" width="48" height="48" alt="Microsoft Sentinel"></a>
-  <a href="https://tltaylor1.github.io" title="Microsoft Defender"><img src="assets/icons/defender.svg" width="48" height="48" alt="Microsoft Defender"></a>
   <a href="https://tltaylor1.github.io" title="AWS"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"></a>
   <a href="https://tltaylor1.github.io" title="Terraform"><img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform"></a>
   <a href="https://tltaylor1.github.io" title="Bicep"><img src="assets/icons/bicep.svg" width="48" height="48" alt="Bicep"></a>
