@@ -43,6 +43,7 @@ CISSP · Terraform Associate · CCNA · Microsoft Expert x3
   <a href="https://tltaylor1.github.io" title="Azure"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure"></a>
   <a href="https://tltaylor1.github.io" title="AWS"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"></a>
   <a href="https://tltaylor1.github.io" title="Terraform"><img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform"></a>
+  <a href="https://tltaylor1.github.io" title="Salt"><img src="https://cdn.simpleicons.org/saltproject/57BCAD" width="48" height="48" alt="Salt"></a>
   <a href="https://tltaylor1.github.io" title="Kubernetes"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes"></a>
   <a href="https://tltaylor1.github.io" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"></a>
   <a href="https://tltaylor1.github.io" title="Python"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"></a>
