@@ -1,4 +1,7 @@
-## Terry Taylor
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header-dark.jpg">
+  <img src="assets/profile-header-light.jpg" alt="Terry Taylor, security engineer and architect: cloud security, identity, governance" width="100%">
+</picture>
 
 <img src="assets/portrait.png" align="right" width="170" alt="Stylized portrait of Terry">
 
