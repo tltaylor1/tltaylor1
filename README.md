@@ -24,7 +24,7 @@ are tested, and mistakes become rules rather than disappearing into
 commit history.
 
 If you like the program (control-plane) or the main application
-(role-call), a star tells me it was useful.
+(role-call), please give them a ⭐ and let me know!
 
 ---
 
