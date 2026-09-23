@@ -41,12 +41,14 @@ If you like the project (control-plane) or the main app (role-call), please give
 | [anki-decks](https://github.com/tltaylor1/anki-decks) | Seven Anki decks, 1,262 cards across PowerShell, Python, KQL, Bicep, cybersecurity, the AWS Security Specialty, and compliance frameworks. Each folder ships an apkg and a CSV twin so card changes diff line by line. |
 
 <p align="center"><b>Certifications</b></p>
-<p align="center">
-  <a href="https://www.isc2.org/certifications/cissp" title="CISSP"><img src="https://img.shields.io/badge/CISSP-1E8449?style=for-the-badge" alt="CISSP"></a>
-  <a href="https://developer.hashicorp.com/certifications/infrastructure-automation" title="HashiCorp Terraform Associate"><img src="https://img.shields.io/badge/Terraform%20Associate-7B42BC?style=for-the-badge" alt="Terraform Associate"></a>
-  <a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html" title="Cisco CCNA"><img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge" alt="CCNA"></a>
-  <a href="https://learn.microsoft.com/en-us/credentials/" title="Microsoft Certified Expert, three credentials"><img src="https://img.shields.io/badge/Microsoft%20Expert%20x3-0078D4?style=for-the-badge" alt="Microsoft Expert x3"></a>
-</p>
+<table align="center"><tr>
+  <td align="center"><a href="https://www.isc2.org/certifications/cissp" title="ISC2 Certified Information Systems Security Professional"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/cissp-dark.png"><img src="assets/badges/cissp.png" width="96" height="96" alt="CISSP badge"></picture><br><sub>CISSP</sub></a></td>
+  <td align="center"><a href="https://learn.microsoft.com/en-us/credentials/certifications/cybersecurity-architect-expert/" title="Microsoft Certified: Cybersecurity Architect Expert"><img src="assets/badges/microsoft-certified-expert.svg" width="96" height="96" alt="Microsoft Certified Expert badge"><br><sub>Cybersecurity Architect Expert</sub></a></td>
+  <td align="center"><a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/" title="Microsoft Certified: Azure Solutions Architect Expert"><img src="assets/badges/microsoft-certified-expert.svg" width="96" height="96" alt="Microsoft Certified Expert badge"><br><sub>Azure Solutions Architect Expert</sub></a></td>
+  <td align="center"><a href="https://learn.microsoft.com/en-us/credentials/certifications/m365-administrator-expert/" title="Microsoft 365 Certified: Administrator Expert"><img src="assets/badges/microsoft-certified-expert.svg" width="96" height="96" alt="Microsoft Certified Expert badge"><br><sub>Microsoft 365 Administrator Expert</sub></a></td>
+  <td align="center"><a href="https://developer.hashicorp.com/certifications/infrastructure-automation" title="HashiCorp Certified: Terraform Associate"><img src="assets/badges/terraform-associate.png" width="96" height="96" alt="Terraform Associate badge"><br><sub>Terraform Associate</sub></a></td>
+  <td align="center"><a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html" title="Cisco Certified Network Associate"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/ccna-dark.png"><img src="assets/badges/ccna.png" width="96" height="96" alt="CCNA badge"></picture><br><sub>CCNA</sub></a></td>
+</tr></table>
 
 <p align="center"><b>Skills and tools</b></p>
 <p align="center">
