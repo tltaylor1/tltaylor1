@@ -24,7 +24,7 @@ are tested, and mistakes become rules rather than disappearing into
 commit history.
 
 If you like the program (control-plane) or the main application
-(role-call), please give them a ⭐ and let me know!
+(manifest-identity), please give them a ⭐ and let me know!
 
 ---
 
@@ -32,7 +32,7 @@ If you like the program (control-plane) or the main application
 
 | Project | What it does |
 |---|---|
-| [role-call](https://github.com/tltaylor1/role-call) | Governance for AWS non-human identities: the roles, service accounts, and access keys that are easy to create and easy to forget. It derives identity state from observed history, adds ownership and explainable risk findings, and turns that evidence into governed review decisions. The software recommends; a person decides. |
+| [manifest-identity](https://github.com/manifest-identity/manifest-identity) | Governance for AWS non-human identities: the roles, service accounts, and access keys that are easy to create and easy to forget. It derives identity state from observed history, adds ownership and explainable risk findings, and turns that evidence into governed review decisions. The software recommends; a person decides. |
 | [build-doctrine](https://github.com/tltaylor1/build-doctrine) | An enforceable engineering rulebook for AI-assisted software development. Every rule traces back to a real failure and names the check that prevents it from recurring. The repository can score another project, vet outside code, and scaffold new projects with the gates in place from the first commit. |
 | [control-plane](https://tltaylor1.github.io) | The program surrounding the individual projects: plans before code, human-reviewed agent changes, blocking gates, monitoring, recovery exercises, architectural decisions, and a record of failures and what changed because of them. |
 | [secure-expense-mvp](https://github.com/tltaylor1/secure-expense-mvp) | A deliberately small application that carries application security end to end: object-level authorization, bounded file handling, transactional audit records, dependency integrity, security-gated delivery, and tests proven by deliberately breaking the controls they protect. |
