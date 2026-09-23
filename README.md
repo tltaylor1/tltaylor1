@@ -5,40 +5,48 @@
 
 <img src="assets/portrait.png" align="right" width="170" alt="Stylized portrait of Terry">
 
-I am a security engineer and architect in Seattle, working in cloud and identity
-security for regulated and federal environments. I have taken two organizations
-from gap assessment through Cybersecurity Maturity Model Certification. 
+Security engineer and architect in Seattle, working across **cloud
+security, identity, infrastructure, and security automation**.
 
-Most of the repositories below form [control-plane](https://tltaylor1.github.io),
-a security engineering program built in public with a governed coding
-agent: every change agent-proposed, human-reviewed, signed, and
-gated, with the decisions and the failure record kept on purpose.
-The diagrams and study repositories stand on their own. 
+I build the controls and systems behind security programs, not only
+the requirements around them. Thirteen years across enterprise and
+regulated environments, from infrastructure engineering and
+Severity-A cloud support through staff-level security architecture
+and program leadership. I have taken two organizations from
+Cybersecurity Maturity Model Certification gap assessment through
+successful certification.
 
-If you like the project (control-plane) or the main app (role-call), please give them a ⭐ and let me know!
+Most of the engineering work here is part of
+[control-plane](https://tltaylor1.github.io), a security engineering
+program built in public. Plans are written before implementation,
+AI-assisted changes are gated and human-reviewed, engineering claims
+are tested, and mistakes become rules rather than disappearing into
+commit history.
 
+If you like the program (control-plane) or the main application
+(role-call), a star tells me it was useful.
 
-### Featured program
+### Featured projects
 
-| Repository | Details |
+| Project | What it does |
 |---|---|
-| [control-plane](https://tltaylor1.github.io) | The program the repositories form: phases fixed before building, monitoring and recovery documented with drills that expire, and the agent governed by gates it cannot route around. |
-| [role-call](https://github.com/tltaylor1/role-call) | Inventory and governance for non-human identities, the roles, service accounts, and access keys nobody offboards. State derives from observed history rather than being stored, and the tool amplifies a human decision rather than acting on its own. Complete through its version one scope. |
-| [build-doctrine](https://github.com/tltaylor1/build-doctrine) | The standards every project here starts from, organized by layer. Each rule names what enforces it and the incident that produced it; what no tool can check is named as a human attestation with an expiry. |
+| [role-call](https://github.com/tltaylor1/role-call) | Governance for AWS non-human identities: the roles, service accounts, and access keys that are easy to create and easy to forget. It derives identity state from observed history, adds ownership and explainable risk findings, and turns that evidence into governed review decisions. The software recommends; a person decides. |
+| [build-doctrine](https://github.com/tltaylor1/build-doctrine) | An enforceable engineering rulebook for AI-assisted software development. Every rule traces back to a real failure and names the check that prevents it from recurring. The repository can score another project, vet outside code, and scaffold new projects with the gates in place from the first commit. |
+| [control-plane](https://tltaylor1.github.io) | The program surrounding the individual projects: plans before code, human-reviewed agent changes, blocking gates, monitoring, recovery exercises, architectural decisions, and a record of failures and what changed because of them. |
+| [secure-expense-mvp](https://github.com/tltaylor1/secure-expense-mvp) | A deliberately small application that carries application security end to end: object-level authorization, bounded file handling, transactional audit records, dependency integrity, security-gated delivery, and tests proven by deliberately breaking the controls they protect. |
 
-### Demo repositories
+### Design and architecture
 
-| Repository | Details |
+| Project | What it is |
 |---|---|
-| [secure-expense-mvp](https://github.com/tltaylor1/secure-expense-mvp) | A small learning demo expense application, finished and hardened: object-level authorization, tokenized values, audit logging, a security-gated pipeline. Complete on purpose. |
-| [sample-diagrams](https://github.com/tltaylor1/sample-diagrams) | Hand-drawn architecture and process diagrams, drawn in Visio, kept as illustration-only examples of design work |
+| [sample-diagrams](https://github.com/tltaylor1/sample-diagrams) | Architecture and process diagrams showing how I communicate systems, trust boundaries, data flows, operational workflows, and cross-team handoffs. |
 
-### Study repositories
+### References and study tools
 
-| Repository | Details |
+| Project | What it is |
 |---|---|
-| [aws-azure-security-mapping](https://github.com/tltaylor1/aws-azure-security-mapping) | Ninety-nine AWS security concepts mapped to the closest Azure comparable, including the seven with no clean equivalent. A study aid from certification work, open to corrections. |
-| [anki-decks](https://github.com/tltaylor1/anki-decks) | Seven Anki decks, 1,262 cards across PowerShell, Python, KQL, Bicep, cybersecurity, the AWS Security Specialty, and compliance frameworks. Each folder ships an apkg and a CSV twin so card changes diff line by line. |
+| [aws-azure-security-mapping](https://github.com/tltaylor1/aws-azure-security-mapping) | Ninety-nine AWS security concepts mapped to their closest Azure counterparts, including the cases where the two platforms have no clean equivalent. |
+| [anki-decks](https://github.com/tltaylor1/anki-decks) | Seven maintained study decks, 1,262 cards across PowerShell, Python, KQL, Bicep, cybersecurity, the AWS Security Specialty, and compliance frameworks. Each deck also has a plain CSV source so changes can be reviewed in Git. |
 
 <p align="center"><b>Certifications</b></p>
 <table align="center"><tr>
@@ -70,3 +78,31 @@ If you like the project (control-plane) or the main app (role-call), please give
   <a href="https://tltaylor1.github.io" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"></a>
   <a href="https://tltaylor1.github.io" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"></a>
 </p>
+
+### Areas of focus
+
+**Cloud security.** Azure, AWS, Microsoft 365, secure landing zones,
+network segmentation, private connectivity, cloud security
+architecture.
+
+**Identity and zero trust.** Entra ID, Conditional Access, PIM,
+non-human identities, workload identities, managed identities, service
+principals, SAML, OIDC, OAuth 2.0.
+
+**Security engineering and automation.** Terraform, Bicep, Python,
+PowerShell, KQL, policy as code, CI/CD security gates, secure-by-design
+engineering.
+
+**Detection and observability.** Microsoft Sentinel, Splunk, Cribl,
+Defender, CloudTrail, GuardDuty, log pipelines, detection engineering,
+threat hunting.
+
+**Governance and compliance.** CMMC, NIST 800-171, NIST 800-53,
+FedRAMP, CIS Benchmarks, architecture reviews, control implementation,
+continuous monitoring.
+
+---
+
+The projects here are meant to be inspected. Design decisions, rejected
+alternatives, tests, controls, and failures are kept visible so the
+implementation can be evaluated rather than simply trusted.
