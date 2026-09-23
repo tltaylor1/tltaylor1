@@ -26,6 +26,8 @@ commit history.
 If you like the program (control-plane) or the main application
 (role-call), a star tells me it was useful.
 
+---
+
 ### Featured projects
 
 | Project | What it does |
@@ -47,6 +49,8 @@ If you like the program (control-plane) or the main application
 |---|---|
 | [aws-azure-security-mapping](https://github.com/tltaylor1/aws-azure-security-mapping) | Ninety-nine AWS security concepts mapped to their closest Azure counterparts, including the cases where the two platforms have no clean equivalent. |
 | [anki-decks](https://github.com/tltaylor1/anki-decks) | Seven maintained study decks, 1,262 cards across PowerShell, Python, KQL, Bicep, cybersecurity, the AWS Security Specialty, and compliance frameworks. Each deck also has a plain CSV source so changes can be reviewed in Git. |
+
+---
 
 <p align="center"><b>Certifications</b></p>
 <table align="center"><tr>
@@ -78,6 +82,8 @@ If you like the program (control-plane) or the main application
   <a href="https://tltaylor1.github.io" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"></a>
   <a href="https://tltaylor1.github.io" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"></a>
 </p>
+
+---
 
 ### Areas of focus
 
