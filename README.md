@@ -17,7 +17,7 @@ Cybersecurity Maturity Model Certification gap assessment through
 successful certification.
 
 Most of the engineering work here is part of
-[control-plane](https://tltaylor1.github.io), a security engineering
+[control-plane](https://tltaylor1.github.io/control-plane/), a security engineering
 program built in public. Plans are written before implementation,
 AI-assisted changes are gated and human-reviewed, engineering claims
 are tested, and mistakes become rules rather than disappearing into
@@ -34,7 +34,7 @@ If you like the program (control-plane) or the main application
 |---|---|
 | [manifest-identity](https://github.com/manifest-identity/manifest-identity) | Governance for the identities nobody owns: the roles, service accounts, and keys that are easy to create and easy to forget. It reads seven providers' own exports (AWS, GitHub, Kubernetes, Google Cloud, Azure and Entra, Okta, Active Directory) and any other through a table, derives each identity's state from observed history, keeps beside it what a named person said the identity may hold, and puts every difference in front of the person who can answer it. The software recommends; a person decides. |
 | [build-doctrine](https://github.com/tltaylor1/build-doctrine) | An enforceable engineering rulebook for AI-assisted software development. Every rule traces back to a real failure and names the check that prevents it from recurring. The repository can score another project, vet outside code, and scaffold new projects with the gates in place from the first commit. |
-| [control-plane](https://tltaylor1.github.io) | The program surrounding the individual projects: plans before code, human-reviewed agent changes, blocking gates, monitoring, recovery exercises, architectural decisions, and a record of failures and what changed because of them. |
+| [control-plane](https://tltaylor1.github.io/control-plane/) | The program surrounding the individual projects: plans before code, human-reviewed agent changes, blocking gates, monitoring, recovery exercises, architectural decisions, and a record of failures and what changed because of them. |
 | [secure-expense-mvp](https://github.com/tltaylor1/secure-expense-mvp) | A deliberately small application that carries application security end to end: object-level authorization, bounded file handling, transactional audit records, dependency integrity, security-gated delivery, and tests proven by deliberately breaking the controls they protect. |
 
 ### Design and architecture
