@@ -5,23 +5,22 @@
 
 <img src="assets/portrait.png" align="right" width="170" alt="Stylized portrait of Terry">
 
-Security engineer and architect in Seattle, working across **cloud
-security, identity, infrastructure, and security automation**.
+## Hi, I'm Terry 👋
 
-I build the controls and systems behind security programs, not only
-the requirements around them. Thirteen years across enterprise and
-regulated environments, from infrastructure engineering and
-Severity-A cloud support through staff-level security architecture
-and program leadership. I have taken two organizations from
-Cybersecurity Maturity Model Certification gap assessment through
-successful certification.
+I'm a security engineer and architect in Seattle who likes building the thing, not just writing the requirement for it.
 
-Most of the engineering work here is part of
-[control-plane](https://tltaylor1.github.io/control-plane/), a security engineering
-program built in public. Plans are written before implementation,
-AI-assisted changes are gated and human-reviewed, engineering claims
-are tested, and mistakes become rules rather than disappearing into
-commit history.
+My background spans infrastructure, cloud platforms, identity, application security, automation, observability, and federal compliance. I've worked from Linux and network engineering through Azure and AWS architecture, spent time handling Severity-A cloud escalations at Microsoft, and have taken two organizations from CMMC gap assessment through successful certification.
+
+A lot of my work sits where **security architecture meets engineering**: turning ambiguous requirements into systems, controls, automation, diagrams, and operating models that people can actually use.
+
+This is also a relatively new GitHub for me. I recently retired an older account I'd had since 2016 that had accumulated a pretty random mix of projects over the years. This one is intentionally more focused on **enterprise security, application security, cloud, identity, and security engineering**.
+
+The projects here explore things like governed coding agents, non-human identity, infrastructure as code, secure application design, policy enforcement, evidence, and the engineering practices behind security controls. I intentionally keep the design decisions, validation mechanisms, and occasional failures visible - not just the finished product.
+
+Most of the larger projects connect through **[control-plane](https://tltaylor1.github.io/)**, while the smaller repositories are experiments, demonstrations, diagrams, and study material.
+
+I build primarily with Python, Terraform, Bicep, PowerShell, cloud-native services, and whatever else is useful for making security repeatable.
+
 
 If you like the program (control-plane) or the main application
 (manifest-identity), please give them a ⭐ and let me know!
