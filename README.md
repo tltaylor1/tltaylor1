@@ -38,6 +38,27 @@ Read these in this order. Two are applications, one is the rulebook every reposi
 | [secure-expense-mvp](https://github.com/tltaylor1/secure-expense-mvp) | A small expense submission and approval application built to exercise application security controls end to end. It includes object-level authorization, bounded file handling, transactional audit records, dependency integrity, and security gates in continuous integration. Critical controls are mutation-tested by deliberately weakening them and confirming that the tests fail. |
 | [control-plane](https://tltaylor1.github.io/control-plane/) | The platform the applications run on: an AWS estate defined as code, with every security choice explained beside the code that makes it. It will hold the organization and its accounts, a persistent foundation and an ephemeral workload rebuilt daily, identity without stored keys, the image promoted by digest, the cloud's own monitoring, and recovery drilled on a schedule. The plan is written; the code is next. |
 
+### How the projects fit together
+
+| Project | Role |
+|---|---|
+| manifest-identity | The identity and access review application. |
+| secure-expense-mvp | The application security reference implementation. |
+| build-doctrine | The shared rules and the checks that hold them. |
+| control-plane | The platform the applications will run on, as code, still to build. |
+
+### Looking for something specific?
+
+**Identity and access governance.** Start with manifest-identity, then read its architecture, security model, decisions, and build gates.
+
+**Application security.** Start with secure-expense-mvp, then read its architecture, design decisions, testing, and security in the development lifecycle sections.
+
+**AI-assisted software development.** Start with build-doctrine, then read its standards, enforcement, coverage, and decisions.
+
+**Cloud security reference material.** Start with aws-azure-security-mapping.
+
+**Platform engineering.** Start with control-plane.
+
 ### Design and architecture
 
 | Project | What it is |
@@ -83,18 +104,6 @@ Read these in this order. Two are applications, one is the rulebook every reposi
   <a href="https://tltaylor1.github.io" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"></a>
   <a href="https://tltaylor1.github.io" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"></a>
 </p>
-
-### Looking for something specific?
-
-**Identity and access governance.** Start with manifest-identity, then read its architecture, security model, decisions, and build gates.
-
-**Application security.** Start with secure-expense-mvp, then read its architecture, design decisions, testing, and security in the development lifecycle sections.
-
-**AI-assisted software development.** Start with build-doctrine, then read its standards, enforcement, coverage, and decisions.
-
-**Cloud security reference material.** Start with aws-azure-security-mapping.
-
-**Platform engineering.** Start with control-plane.
 
 ---
 
