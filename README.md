@@ -40,12 +40,12 @@ Read these in this order. Two are applications, one is the rulebook every reposi
 
 ### How the projects fit together
 
-| Project | Role |
+| Project | What it is |
 |---|---|
-| manifest-identity | The identity and access review application. |
-| secure-expense-mvp | The application security reference implementation. |
-| build-doctrine | The shared rules and the checks that hold them. |
-| control-plane | The platform the applications will run on, as code, still to build. |
+| **manifest-identity** | An application for reviewing who has access to what across an organization's cloud accounts and directories. |
+| **build-doctrine** | The rules and checks used to govern AI-assisted development across the repositories. |
+| **secure-expense-mvp** | A small application used to exercise application-security controls end to end. |
+| **control-plane** | The AWS estate the applications will run on, defined as code. The design is written and implementation has not started. |
 
 ### Looking for something specific?
 
