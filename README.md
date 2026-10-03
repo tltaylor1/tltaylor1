@@ -27,27 +27,29 @@ If you like the program (control-plane) or the main application
 
 ---
 
-### Featured projects
+### Start here
+
+Read these in this order. Two are applications, one is the rulebook every repository here is built under, and one is the platform the applications will run on.
 
 | Project | What it does |
 |---|---|
 | [manifest-identity](https://manifest-identity.github.io/manifest-identity/) | An application for reviewing who has access to what across an organization's cloud accounts and directories. It keeps a record, written by a named person, of what access each identity is allowed to have; it imports what seven providers report and shows every difference between the two records; it runs review campaigns that put each difference in front of the person responsible, one decision at a time. It never changes anything in the systems it reads. |
 | [build-doctrine](https://tltaylor1.github.io/build-doctrine/) | The rulebook the program's code is built under: standards for letting an AI coding agent write code a person is responsible for, where each rule names the problem behind it and the check that catches it. It provides a scorer that grades any repository from 0 to 5 on each rule, a vetting tool that reads a dependency before it is adopted, a project template with the checks switched on, and coverage of seven published security frameworks with the gaps listed. |
+| [secure-expense-mvp](https://github.com/tltaylor1/secure-expense-mvp) | A small expense submission and approval application built to exercise application security controls end to end. It includes object-level authorization, bounded file handling, transactional audit records, dependency integrity, and security gates in continuous integration. Critical controls are mutation-tested by deliberately weakening them and confirming that the tests fail. |
 | [control-plane](https://tltaylor1.github.io/control-plane/) | The platform the applications run on: an AWS estate defined as code, with every security choice explained beside the code that makes it. It will hold the organization and its accounts, a persistent foundation and an ephemeral workload rebuilt daily, identity without stored keys, the image promoted by digest, the cloud's own monitoring, and recovery drilled on a schedule. The plan is written; the code is next. |
-| [secure-expense-mvp](https://github.com/tltaylor1/secure-expense-mvp) | A deliberately small application that carries application security end to end: object-level authorization, bounded file handling, transactional audit records, dependency integrity, security-gated delivery, and tests proven by deliberately breaking the controls they protect. |
 
 ### Design and architecture
 
 | Project | What it is |
 |---|---|
-| [sample-diagrams](https://github.com/tltaylor1/sample-diagrams) | Architecture and process diagrams showing how I communicate systems, trust boundaries, data flows, operational workflows, and cross-team handoffs. |
+| [sample-diagrams](https://github.com/tltaylor1/sample-diagrams) | Architecture and process diagrams covering systems, trust boundaries, data flows, security controls, operational workflows, and cross-team handoffs. |
 
 ### References and study tools
 
 | Project | What it is |
 |---|---|
 | [aws-azure-security-mapping](https://github.com/tltaylor1/aws-azure-security-mapping) | Ninety-nine AWS security concepts mapped to their closest Azure counterparts, including the cases where the two platforms have no clean equivalent. |
-| [anki-decks](https://github.com/tltaylor1/anki-decks) | Seven maintained study decks, 1,262 cards across PowerShell, Python, KQL, Bicep, cybersecurity, the AWS Security Specialty, and compliance frameworks. Each deck also has a plain CSV source so changes can be reviewed in Git. |
+| [anki-decks](https://github.com/tltaylor1/anki-decks) | Seven maintained study decks, 1,262 cards across PowerShell, Python, Kusto Query Language (KQL), Bicep, cybersecurity, the AWS Security Specialty, and compliance frameworks. Each deck has a plain CSV source so changes can be reviewed in Git, and an automated parity check keeps the source and the Anki package in step. |
 
 ---
 
@@ -82,32 +84,26 @@ If you like the program (control-plane) or the main application
   <a href="https://tltaylor1.github.io" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"></a>
 </p>
 
+### Looking for something specific?
+
+**Identity and access governance.** Start with manifest-identity, then read its architecture, security model, decisions, and build gates.
+
+**Application security.** Start with secure-expense-mvp, then read its architecture, design decisions, testing, and security in the development lifecycle sections.
+
+**AI-assisted software development.** Start with build-doctrine, then read its standards, enforcement, coverage, and decisions.
+
+**Cloud security reference material.** Start with aws-azure-security-mapping.
+
+**Platform engineering.** Start with control-plane.
+
 ---
 
 ### Areas of focus
 
-**Cloud security.** Azure, AWS, Microsoft 365, secure landing zones,
-network segmentation, private connectivity, cloud security
-architecture.
-
-**Identity and zero trust.** Entra ID, Conditional Access, PIM,
-non-human identities, workload identities, managed identities, service
-principals, SAML, OIDC, OAuth 2.0.
-
-**Security engineering and automation.** Terraform, Bicep, Python,
-PowerShell, KQL, policy as code, CI/CD security gates, secure-by-design
-engineering.
-
-**Detection and observability.** Microsoft Sentinel, Splunk, Cribl,
-Defender, CloudTrail, GuardDuty, log pipelines, detection engineering,
-threat hunting.
-
-**Governance and compliance.** CMMC, NIST 800-171, NIST 800-53,
-FedRAMP, CIS Benchmarks, architecture reviews, control implementation,
-continuous monitoring.
+Cloud and identity security, application security, infrastructure as code, continuous integration and continuous delivery security, detection engineering, security automation, and regulated environments.
 
 ---
 
-The projects here are meant to be inspected. Design decisions, rejected
-alternatives, tests, controls, and failures are kept visible so the
-implementation can be evaluated rather than simply trusted.
+Across these projects are implementation plans, architecture decisions,
+rejected alternatives, automated tests, security controls, failure
+records, and the checks added afterward.
