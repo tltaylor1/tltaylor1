@@ -15,15 +15,19 @@ A lot of my work sits where **security architecture meets engineering**: turning
 
 This is also a relatively new GitHub for me. I recently retired an older account I'd had since 2016 that had accumulated a pretty random mix of projects over the years. This one is intentionally more focused on **enterprise security, application security, cloud, identity, and security engineering**.
 
-The projects here explore things like governed coding agents, non-human identity, infrastructure as code, secure application design, policy enforcement, evidence, and the engineering practices behind security controls. I intentionally keep the design decisions, validation mechanisms, and occasional failures visible, not just the finished product.
+The projects here explore things like:
+- Governed coding agents
+- Non-human identity
+- Infrastructure as code
+- Secure application design
+- Policy enforcement
+- Evidence and the engineering practices behind security controls
+- I intentionally keep the design decisions, validation mechanisms, and occasional failures visible.
 
-Most of the larger projects connect through **[control-plane](https://tltaylor1.github.io/control-plane/)**, while the smaller repositories are experiments, demonstrations, diagrams, and study material.
 
 I build primarily with Python, Terraform, Bicep, PowerShell, cloud-native services, and whatever else is useful for making security repeatable.
 
-
-If you like the program (control-plane) or the main application
-(manifest-identity), please give them a ⭐ and let me know!
+**Please take a look at the work and if you like any of it please consider awarding a ⭐ and let me know!**
 
 ---
 
