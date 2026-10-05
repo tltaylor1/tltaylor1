@@ -3,9 +3,9 @@
   <img src="assets/profile-header-light.jpg" alt="Terry Taylor, security engineer and architect: cloud security, identity, governance" width="100%">
 </picture>
 
-<img src="assets/portrait.png" align="right" width="170" alt="Stylized portrait of Terry">
-
 ## Hi, I'm Terry 👋
+
+<img src="assets/portrait.png" align="right" width="170" alt="Stylized portrait of Terry">
 
 I'm a security engineer and architect in Seattle who likes building the thing, not just writing the requirement for it.
 
