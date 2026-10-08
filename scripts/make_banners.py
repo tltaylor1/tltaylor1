@@ -17,10 +17,8 @@ from PIL import Image, ImageDraw, ImageFont
 
 BANNERS = {
     "start-here": "Start Here",
-    "design-and-architecture": "Design and Architecture",
-    "references-and-study-tools": "References and Study Tools",
-    "certifications": "Certifications",
-    "skills-and-tools": "Skills and Tools",
+    "more-projects": "More Projects",
+    "certifications-and-skills": "Certifications and Skills",
     "areas-of-focus": "Areas of Focus",
 }
 OUT = Path(__file__).resolve().parent.parent / "assets" / "banners"
@@ -32,7 +30,7 @@ WHITE = (255, 255, 255)
 FONT = "/usr/share/fonts/truetype/lato/Lato-Black.ttf"
 FONT_SIZE = 64
 RADIUS = 10
-LINE_WIDTH, LINE_HEIGHT, LINE_GAP = 160, 5, 12
+LINE_WIDTH, LINE_HEIGHT, LINE_GAP = 160, 5, 20
 SCALE = 4
 
 
