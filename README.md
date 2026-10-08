@@ -31,13 +31,27 @@ I build primarily with Python, Terraform, Bicep, PowerShell, cloud-native servic
 
 ---
 
-### Start here
+<img src="assets/banners/start-here.png" alt="Start here" width="100%">
 
-Read these in this order. Two are applications, one is the rules they are built under, and one is the platform they will run on.
+**Flagship: [manifest-identity](https://manifest-identity.github.io/manifest-identity/)**
+
+An application for reviewing who has access to what across an organization's cloud accounts and directories.
+
+- It holds a record of what access each identity is allowed to have, written by a named person, with an owner and an expiry.
+- It imports what AWS, Entra, Okta, Active Directory, and other providers already export, and builds an inventory of every identity and the access it holds.
+- It shows every difference between the two and runs review campaigns that put each one in front of the person responsible for it.
+- It never changes anything in the systems it reads, and it holds no provider credential.
+
+**How it is checked.** Every change reaches main through a pull request that cannot merge until its checks pass. The checks sweep the full history for secrets, run every test under a coverage floor, remove security controls one at a time and confirm a named test fails for each, audit the dependencies, and scan the container image.
+
+[![OpenSSF Scorecard](https://img.shields.io/ossf-scorecard/github.com/manifest-identity/manifest-identity?label=OpenSSF%20Scorecard)](https://scorecard.dev/viewer/?uri=github.com/manifest-identity/manifest-identity)
+[![OpenSSF Best Practices](https://img.shields.io/cii/level/14563?label=OpenSSF%20Best%20Practices)](https://www.bestpractices.dev/projects/14563)
+[![Coverage](https://img.shields.io/codecov/c/github/manifest-identity/manifest-identity?label=Coverage)](https://codecov.io/gh/manifest-identity/manifest-identity)
+
+After it, read these in order. The first is the rules both applications are built under, the second is a smaller application, and the third is the platform they will run on.
 
 | Project | What it is |
 |---|---|
-| [manifest-identity](https://manifest-identity.github.io/manifest-identity/) | An application for reviewing who has access to what across an organization's cloud accounts and directories. |
 | [build-doctrine](https://tltaylor1.github.io/build-doctrine/) | The rules and checks used to govern AI-assisted development across the repositories. |
 | [secure-expense-mvp](https://github.com/tltaylor1/secure-expense-mvp) | A small application used to exercise application-security controls end to end. |
 | [control-plane](https://tltaylor1.github.io/control-plane/) | The AWS estate the applications will run on, defined as code. The design is written and implementation has not started. |
@@ -54,7 +68,7 @@ Read these in this order. Two are applications, one is the rules they are built 
 
 **Platform engineering.** Start with control-plane.
 
-### Design and architecture
+<img src="assets/banners/design-and-architecture.png" alt="Design and architecture" width="100%">
 
 | Project | What it is |
 |---|---|
