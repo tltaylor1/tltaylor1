@@ -31,7 +31,7 @@ I build primarily with Python, Terraform, Bicep, PowerShell, cloud-native servic
 
 ---
 
-<img src="assets/banners/start-here.png" alt="Start here" width="100%">
+<img src="assets/banners/start-here.png" alt="Start Here" width="100%">
 
 **Flagship: [manifest-identity](https://manifest-identity.github.io/manifest-identity/)**
 
@@ -56,7 +56,7 @@ After it, read these in order. The first is the rules both applications are buil
 | [secure-expense-mvp](https://github.com/tltaylor1/secure-expense-mvp) | A small application used to exercise application-security controls end to end. |
 | [control-plane](https://tltaylor1.github.io/control-plane/) | The AWS estate the applications will run on, defined as code. The design is written and implementation has not started. |
 
-### Looking for something specific?
+### Looking for Something Specific?
 
 **Identity and access governance.** Start with manifest-identity, then read its architecture, security model, decisions, and build gates.
 
@@ -68,13 +68,13 @@ After it, read these in order. The first is the rules both applications are buil
 
 **Platform engineering.** Start with control-plane.
 
-<img src="assets/banners/design-and-architecture.png" alt="Design and architecture" width="100%">
+<img src="assets/banners/design-and-architecture.png" alt="Design and Architecture" width="100%">
 
 | Project | What it is |
 |---|---|
 | [sample-diagrams](https://github.com/tltaylor1/sample-diagrams) | Architecture and process diagrams covering systems, trust boundaries, data flows, security controls, operational workflows, and cross-team handoffs. |
 
-### References and study tools
+<img src="assets/banners/references-and-study-tools.png" alt="References and Study Tools" width="100%">
 
 | Project | What it is |
 |---|---|
@@ -83,7 +83,7 @@ After it, read these in order. The first is the rules both applications are buil
 
 ---
 
-<p align="center"><b>Certifications</b></p>
+<img src="assets/banners/certifications.png" alt="Certifications" width="100%">
 <table align="center"><tr>
   <td align="center"><a href="https://www.isc2.org/certifications/cissp" title="ISC2 Certified Information Systems Security Professional"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/cissp-dark.png"><img src="assets/badges/cissp.png" width="96" height="96" alt="CISSP badge"></picture><br><sub>CISSP</sub></a></td>
   <td align="center"><a href="https://learn.microsoft.com/en-us/credentials/certifications/cybersecurity-architect-expert/" title="Microsoft Certified: Cybersecurity Architect Expert"><img src="assets/badges/microsoft-certified-expert.svg" width="96" height="96" alt="Microsoft Certified Expert badge"><br><sub>Cybersecurity Architect Expert</sub></a></td>
@@ -93,7 +93,7 @@ After it, read these in order. The first is the rules both applications are buil
   <td align="center"><a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html" title="Cisco Certified Network Associate"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/ccna-dark.png"><img src="assets/badges/ccna.png" width="96" height="96" alt="CCNA badge"></picture><br><sub>CCNA</sub></a></td>
 </tr></table>
 
-<p align="center"><b>Skills and tools</b></p>
+<img src="assets/banners/skills-and-tools.png" alt="Skills and Tools" width="100%">
 <p align="center">
   <a href="https://tltaylor1.github.io" title="Azure"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure"></a>
   <a href="https://tltaylor1.github.io" title="Microsoft Entra ID"><img src="assets/icons/entra-id.svg" width="48" height="48" alt="Microsoft Entra ID"></a>
@@ -116,7 +116,7 @@ After it, read these in order. The first is the rules both applications are buil
 
 ---
 
-### Areas of focus
+<img src="assets/banners/areas-of-focus.png" alt="Areas of Focus" width="100%">
 
 Cloud and identity security, application security, infrastructure as code, continuous integration and continuous delivery security, detection engineering, security automation, and regulated environments.
 
