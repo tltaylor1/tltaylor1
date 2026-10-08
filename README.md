@@ -7,7 +7,7 @@
 
 <img src="assets/portrait.png" align="right" width="170" alt="Stylized portrait of Terry">
 
-I'm a security engineer and architect in Seattle who likes building the thing, not just writing the requirement for it.
+I'm a security engineer and architect based in Seattle.
 
 My background spans infrastructure, cloud platforms, identity, application security, automation, observability, and federal compliance. I've worked from Linux and network engineering through Azure and AWS architecture, spent time handling Severity-A cloud escalations at Microsoft, and have taken two organizations from Cybersecurity Maturity Model Certification (CMMC) gap assessment through successful certification.
 
