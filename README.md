@@ -22,8 +22,8 @@ The projects here explore things like:
 - Secure application design
 - Policy enforcement
 - Evidence and the engineering practices behind security controls
-- I intentionally keep the design decisions, validation mechanisms, and occasional failures visible.
 
+Across these projects are implementation plans, architecture decisions, rejected alternatives, automated tests, security controls, failure records, and the checks added afterward.
 
 I build primarily with Python, Terraform, Bicep, PowerShell, cloud-native services, and whatever else is useful for making security repeatable.
 
@@ -114,8 +114,13 @@ After it, read these in order. The first is the rules both applications are buil
 
 <img src="assets/banners/areas-of-focus.png" alt="Areas of Focus" width="100%">
 
-Cloud and identity security, application security, infrastructure as code, continuous integration and continuous delivery security, detection engineering, security automation, and regulated environments.
+My work centers on a handful of areas.
 
-Across these projects are implementation plans, architecture decisions,
-rejected alternatives, automated tests, security controls, failure
-records, and the checks added afterward.
+- I secure cloud platforms and identity across Azure, Entra ID, and AWS, including non-human identities.
+- I design application security in from the start, and test it by removing controls to confirm a test fails.
+- I define infrastructure as code, so an environment can be reviewed, rebuilt, and compared with what is running.
+- I secure delivery pipelines with pinned dependencies, full-history secret scanning, and merges gated on checks.
+- I build detections and the observability they depend on.
+- I automate security work so it runs the same way every time.
+- I work in regulated environments, including federal compliance and CMMC certification.
+- I govern AI-assisted development with written rules and the checks that enforce them.
