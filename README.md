@@ -46,6 +46,8 @@ An application for reviewing who has access to what across an organization's clo
 
 [![OpenSSF Scorecard](https://img.shields.io/ossf-scorecard/github.com/manifest-identity/manifest-identity?label=OpenSSF%20Scorecard)](https://scorecard.dev/viewer/?uri=github.com/manifest-identity/manifest-identity)
 [![OpenSSF Best Practices](https://img.shields.io/cii/level/14563?label=OpenSSF%20Best%20Practices)](https://www.bestpractices.dev/projects/14563)
+[![Checks](https://img.shields.io/github/actions/workflow/status/manifest-identity/manifest-identity/ci.yml?branch=main&label=Checks)](https://github.com/manifest-identity/manifest-identity/actions/workflows/ci.yml)
+[![Coverage](https://img.shields.io/badge/Coverage-90%25%20minimum%20enforced-brightgreen)](https://github.com/manifest-identity/manifest-identity/blob/main/.github/workflows/ci.yml)
 
 After it, read these in order. The first is the rules both applications are built under, the second is a smaller application, and the third is the platform they will run on.
 
